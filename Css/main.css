@@ -13,9 +13,10 @@ li{
 }
 
 .container{
+    display:block;
     width:200px;
     height: max-content;
-    
+    z-index: 10;
 }
 
 .contextMenu{
