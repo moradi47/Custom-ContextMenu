@@ -33,5 +33,13 @@ li{
 }
 
 .icon{
+    width:20px;
     font-size: 14px;
+}
+
+.itemMenu{
+    display:flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    gap:10px;
 }
